@@ -150,6 +150,7 @@ public class Deck : MonoBehaviour
             modificarApuestas();
 
         }
+
     }
 
     public void Stand()
@@ -205,6 +206,7 @@ public class Deck : MonoBehaviour
 
         }
         stickButton.interactable = false;
+
     }
 
     public void PlayAgain()
